@@ -1,1 +1,1 @@
-console.log("Anshuman is good man");
+console.log("Anshuman is good person");
