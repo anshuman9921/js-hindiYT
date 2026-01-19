@@ -1,9 +1,9 @@
 let score = "33"
 
-console.log(typeof score);
+// console.log(typeof score);
 
 let valueinNumber = Number(score);
-console.log(typeof valueinNumber);
+// console.log(typeof valueinNumber);
 
 // "33" => can convert to number as 33
 // "33abc" => NaN
@@ -12,8 +12,14 @@ console.log(typeof valueinNumber);
 let isloggedin = 1
 
 let bolleanLoggedin = Boolean(isloggedin);
-console.log(bolleanLoggedin)
+// console.log(bolleanLoggedin)
 
 // 1 => true and 0 => false
 // "" => false
 // "hitesh" => true
+
+// *******************Opeartions*******************
+
+let value = 3
+let negvalue = -value
+console.log(negvalue);
